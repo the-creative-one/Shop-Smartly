@@ -7,7 +7,7 @@ My first MERN project . Created this project just for learning purpose.
 
 This project is an e-commerce website that allows users to browse and purchase  products online.
 
-*Deployed on cyclic* - `https://lazy-blue-gosling-garb.cyclic.app`
+**_Deployed on cyclic_** -  https://lazy-blue-gosling-garb.cyclic.app
 
 ## Features
 
