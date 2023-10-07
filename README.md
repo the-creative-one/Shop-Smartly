@@ -67,4 +67,4 @@ The backend API provides the following endpoints:
 
  _Suggestions and feedbacks helps us grow and learn._
  
- _If you have any ideas, improvements, or encounter any issues while using our backend, please don't hesitate to open an issue or submit a pull request._
+ _If you have any ideas, improvements, or encounter any issues while using the backend, please don't hesitate to open an issue or submit a pull request._
