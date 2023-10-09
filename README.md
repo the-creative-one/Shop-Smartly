@@ -63,11 +63,13 @@ The backend API provides the following endpoints:
  - GET `/api/v1/auth/all-orders`: Retrieves all orders (admin access).
  - PUT `/api/v1/auth/order-status/:orderId`: Updates the status of an order (admin access).
 
-## Note 
-The project is been deployed on a free hosting site , due to which the UI may look a bit different and the payment option isn't loading. For viewing the exact project please refer to the repo.
 
 ***Deployment Link*** : 
-_https://shop-smartly.cyclic.app_
+_https://shop-smartly.cyclic.app_ 
+
+- The project is been deployed on a free hosting site , due to which the UI may look a bit different and the payment option isn't loading. For viewing the exact project please refer to the repo.
+
+
 
 
  _Suggestions and feedbacks helps us grow and learn._
