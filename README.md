@@ -7,8 +7,6 @@ My first MERN project . Created this project just for learning purpose.
 
 This project is an e-commerce website that allows users to browse and purchase  products online.
 
-**_Deployed on cyclic_** - https://shop-smartly.cyclic.app
-
 ## Features
 
 - User authentication and registration
@@ -65,11 +63,16 @@ The backend API provides the following endpoints:
  - GET `/api/v1/auth/all-orders`: Retrieves all orders (admin access).
  - PUT `/api/v1/auth/order-status/:orderId`: Updates the status of an order (admin access).
 
-##
+## Note 
+The project is been deployed on a free hosting site , due to which the UI may look a bit different and the payment option isn't loading. For viewing the exact project please refer to the repo.
 
-**Learned from** : https://youtu.be/A_-fn_ij59c?si=SCm0WmqD3WkGNPos 
+***Deployment Link*** : 
+_https://shop-smartly.cyclic.app_
 
 
  _Suggestions and feedbacks helps us grow and learn._
  
  _If you have any ideas, improvements, or encounter any issues while using the backend, please don't hesitate to open an issue or submit a pull request._
+
+ 
+**Learned from** : https://youtu.be/A_-fn_ij59c?si=SCm0WmqD3WkGNPos 
