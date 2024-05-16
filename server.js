@@ -8,7 +8,7 @@ import categoryRoutes from "./routes/categoryRoute.js";
 import productRoutes from "./routes/productRoute.js";
 import cors from "cors";
 import path from "path";
-import { fileURLToPath } from "url";
+// import { fileURLToPath } from "url";
 
 // configure env
 dotenv.config(); //if the env file is in other folder then we have to write as- dotenv.config({path:'here we've to write the path were the file is.'})
@@ -16,9 +16,9 @@ dotenv.config(); //if the env file is in other folder then we have to write as- 
 // database config
 connectDB();
 
-// esmodule-fix
-const __filename = fileURLToPath(import.meta.url);
-const __dirname = path.dirname(__filename);
+// // esmodule-fix
+// const __filename = fileURLToPath(import.meta.url);
+// const __dirname = path.dirname(__filename);
 // rest object
 const app = express();
 
