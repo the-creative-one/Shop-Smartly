@@ -23,6 +23,7 @@ This project is an e-commerce website that allows users to browse and purchase  
 - **Backend:** Node.js, Express.js, MongoDB
 - **Authentication:** JSON Web Tokens (JWT)
 - **Payment Processing:** Braintree
+- **Deployment:** Render
 - **Version Control:** Git, GitHub
 
 
@@ -62,7 +63,9 @@ The backend API provides the following endpoints:
  - GET `/api/v1/auth/all-orders`: Retrieves all orders (admin access).
  - PUT `/api/v1/auth/order-status/:orderId`: Updates the status of an order (admin access).
 
- 
+
+
+ _Deployment Link :_ https://shop-smartly.onrender.com/
 
  _Suggestions and feedbacks helps us grow and learn._
  
